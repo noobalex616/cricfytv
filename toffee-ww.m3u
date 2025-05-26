@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sports_highlights" tvg-name="TOFFEE Sports VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" tvg-chno="sports_highlights" group-title="", TOFFEE Sports VIP
-https://yflix.top/
+https://yflix.top/live.php?id=sports_highlights&e=.m3u
 #EXTINF:-1 tvg-id="toffee_movie" tvg-name="TOFFEE Movies VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" tvg-chno="toffee_movie" group-title="", TOFFEE Movies VIP
 https://yflix.top/live.php?id=toffee_movie&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="toffee_drama" tvg-name="TOFFEE Dramas VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" tvg-chno="toffee_drama" group-title="", TOFFEE Dramas VIP
