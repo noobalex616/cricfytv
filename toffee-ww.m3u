@@ -1,93 +1,93 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sports_highlights" tvg-name="TOFFEE Sports VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" tvg-chno="sports_highlights" group-title="", TOFFEE Sports VIP
-https://yflix.top/live.php?id=sports_highlights&e=.m3u
+https://toffee.yflix.top/live.php?id=9cc74d11cfd0&e=.m3u8|referer=https://toffee.yflix.top//
 #EXTINF:-1 tvg-id="toffee_movie" tvg-name="TOFFEE Movies VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" tvg-chno="toffee_movie" group-title="", TOFFEE Movies VIP
-https://yflix.top/live.php?id=toffee_movie&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=toffee_movie&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="toffee_drama" tvg-name="TOFFEE Dramas VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" tvg-chno="toffee_drama" group-title="", TOFFEE Dramas VIP
-https://yflix.top/live.php?id=toffee_drama&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=toffee_drama&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png" tvg-chno="cnn" group-title="", CNN VIP
-https://yflix.top/live.php?id=cnn&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=cnn&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="euro_sports_hd" tvg-name="Euro Sport HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" tvg-chno="euro_sports_hd" group-title="", Euro Sport HD
-https://yflix.top/live.php?id=euro_sports_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=euro_sports_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="f4189bfa64f3f801495ad7a973334724" tvg-name="IPL VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/304419/logo/115x115/mobile_logo_253140001742624618.png" tvg-chno="f4189bfa64f3f801495ad7a973334724" group-title="", IPL VIP
-https://yflix.top/live.php?id=f4189bfa64f3f801495ad7a973334724&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=f4189bfa64f3f801495ad7a973334724&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="9c12eb01b2b1ecc6f2fdf3ab0290a4ce" tvg-name="PSL" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/304421/logo/240x240/mobile_logo_646622001744183518.png" tvg-chno="9c12eb01b2b1ecc6f2fdf3ab0290a4ce" group-title="", PSL
-https://yflix.top/live.php?id=9c12eb01b2b1ecc6f2fdf3ab0290a4ce&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=9c12eb01b2b1ecc6f2fdf3ab0290a4ce&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="psl_highlights" tvg-name="PSL Highlights" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/304445/logo/240x240/mobile_logo_194690001744269219.png" tvg-chno="psl_highlights" group-title="", PSL Highlights
-https://yflix.top/live.php?id=psl_highlights&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=psl_highlights&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-name="SONY SPORTS TEN 1 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" tvg-chno="sony_sports_1_hd" group-title="", SONY SPORTS TEN 1 HD
-https://yflix.top/live.php?id=sony_sports_1_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sony_sports_1_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-name="SONY SPORTS TEN 2 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" tvg-chno="sony_sports_2_hd" group-title="", SONY SPORTS TEN 2 HD
-https://yflix.top/live.php?id=sony_sports_2_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sony_sports_2_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-name="SONY SPORTS TEN 5 HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" tvg-chno="sony_sports_5_hd" group-title="", SONY SPORTS TEN 5 HD
-https://yflix.top/live.php?id=sony_sports_5_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sony_sports_5_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="ten_cricket" tvg-name="SONY TEN Cricket" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" tvg-chno="ten_cricket" group-title="", SONY TEN Cricket
-https://yflix.top/live.php?id=ten_cricket&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=ten_cricket&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="cartoon_network_hd" tvg-name="Cartoon Network HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" tvg-chno="cartoon_network_hd" group-title="", Cartoon Network HD
-https://yflix.top/live.php?id=cartoon_network_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=cartoon_network_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="cartoon_network_sd" tvg-name="Cartoon Network" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" tvg-chno="cartoon_network_sd" group-title="", Cartoon Network
-https://yflix.top/live.php?id=cartoon_network_sd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=cartoon_network_sd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="pogo_sd" tvg-name="Pogo" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" tvg-chno="pogo_sd" group-title="", Pogo
-https://yflix.top/live.php?id=pogo_sd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=pogo_sd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="discovery_kids" tvg-name="Discovery Kids" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" tvg-chno="discovery_kids" group-title="", Discovery Kids
-https://yflix.top/live.php?id=discovery_kids&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=discovery_kids&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sonyyay" tvg-name="SONY YAY VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" tvg-chno="sonyyay" group-title="", SONY YAY VIP
-https://yflix.top/live.php?id=sonyyay&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sonyyay&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="zee_bangla" tvg-name="Zee Bangla VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" tvg-chno="zee_bangla" group-title="", Zee Bangla VIP
-https://yflix.top/live.php?id=zee_bangla&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=zee_bangla&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="hum_tv" tvg-name="Hum TV" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" tvg-chno="hum_tv" group-title="", Hum TV
-https://yflix.top/live.php?id=hum_tv&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=hum_tv&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="hum_masala" tvg-name="Hum Masala" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" tvg-chno="hum_masala" group-title="", Hum Masala
-https://yflix.top/live.php?id=hum_masala&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=hum_masala&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="hum_sitaray" tvg-name="Hum Sitarey" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" tvg-chno="hum_sitaray" group-title="", Hum Sitarey
-https://yflix.top/live.php?id=hum_sitaray&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=hum_sitaray&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aat VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" tvg-chno="sonyaath" group-title="", Sony Aat VIP
-https://yflix.top/live.php?id=sonyaath&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sonyaath&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sonyentertainmnt_hd" tvg-name="SONY ENTERTAINMENT TELEVISION HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" tvg-chno="sonyentertainmnt_hd" group-title="", SONY ENTERTAINMENT TELEVISION HD VIP
-https://yflix.top/live.php?id=sonyentertainmnt_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sonyentertainmnt_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sony_entertainment" tvg-name="SONY ENTERTAINMENT TELEVISION" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" tvg-chno="sony_entertainment" group-title="", SONY ENTERTAINMENT TELEVISION
-https://yflix.top/live.php?id=sony_entertainment&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sony_entertainment&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="b4u_music" tvg-name="B4U Music VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" tvg-chno="b4u_music" group-title="", B4U Music VIP
-https://yflix.top/live.php?id=b4u_music&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=b4u_music&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sonysab_hd" tvg-name="SONY SAB HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" tvg-chno="sonysab_hd" group-title="", SONY SAB HD VIP
-https://yflix.top/live.php?id=sonysab_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sonysab_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="zee_tv_hd" tvg-name="Zee TV HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" tvg-chno="zee_tv_hd" group-title="", Zee TV HD
-https://yflix.top/live.php?id=zee_tv_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=zee_tv_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sony_max_hd" tvg-name="SONY MAX HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" tvg-chno="sony_max_hd" group-title="", SONY MAX HD VIP
-https://yflix.top/live.php?id=sony_max_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sony_max_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sony_max" tvg-name="SONY MAX VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" tvg-chno="sony_max" group-title="", SONY MAX VIP
-https://yflix.top/live.php?id=sony_max&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sony_max&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sonypix_hd" tvg-name="SONY PIX HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" tvg-chno="sonypix_hd" group-title="", SONY PIX HD VIP
-https://yflix.top/live.php?id=sonypix_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sonypix_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="b4u_movies" tvg-name="B4U Movies VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" tvg-chno="b4u_movies" group-title="", B4U Movies VIP
-https://yflix.top/live.php?id=b4u_movies&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=b4u_movies&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sonymax_2" tvg-name="SONY MAX 2 VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" tvg-chno="sonymax_2" group-title="", SONY MAX 2 VIP
-https://yflix.top/live.php?id=sonymax_2&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sonymax_2&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-name="Zee Bangla Cinema VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" tvg-chno="zee_bangla_cinema" group-title="", Zee Bangla Cinema VIP
-https://yflix.top/live.php?id=zee_bangla_cinema&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=zee_bangla_cinema&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="zee_cinema_hd" tvg-name="Zee Cinema HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" tvg-chno="zee_cinema_hd" group-title="", Zee Cinema HD
-https://yflix.top/live.php?id=zee_cinema_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=zee_cinema_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="tlc_hd" tvg-name="TLC HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" tvg-chno="tlc_hd" group-title="", TLC HD
-https://yflix.top/live.php?id=tlc_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=tlc_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="tlc_sd" tvg-name="TLC" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" tvg-chno="tlc_sd" group-title="", TLC
-https://yflix.top/live.php?id=tlc_sd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=tlc_sd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="animal_planet_sd" tvg-name="Animal Planet" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" tvg-chno="animal_planet_sd" group-title="", Animal Planet
-https://yflix.top/live.php?id=animal_planet_sd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=animal_planet_sd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="animal_planet_hd" tvg-name="Animal Planet HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" tvg-chno="animal_planet_hd" group-title="", Animal Planet HD
-https://yflix.top/live.php?id=animal_planet_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=animal_planet_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="sonybbc_earth_hd" tvg-name="SONY BBC EARTH HD VIP" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_892290001738663264.png" tvg-chno="sonybbc_earth_hd" group-title="", SONY BBC EARTH HD VIP
-https://yflix.top/live.php?id=sonybbc_earth_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=sonybbc_earth_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="discovery_hd" tvg-name="Discovery HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" tvg-chno="discovery_hd" group-title="", Discovery HD
-https://yflix.top/live.php?id=discovery_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=discovery_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="discovery_sd" tvg-name="Discovery" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" tvg-chno="discovery_sd" group-title="", Discovery
-https://yflix.top/live.php?id=discovery_sd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=discovery_sd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="discovery_science" tvg-name="Discovery Science" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" tvg-chno="discovery_science" group-title="", Discovery Science
-https://yflix.top/live.php?id=discovery_science&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=discovery_science&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="discovery_turbo" tvg-name="Discovery Turbo" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" tvg-chno="discovery_turbo" group-title="", Discovery Turbo
-https://yflix.top/live.php?id=discovery_turbo&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=discovery_turbo&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="discovary_investigation_hd" tvg-name="Investigation Discovery HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" tvg-chno="discovary_investigation_hd" group-title="", Investigation Discovery HD
-https://yflix.top/live.php?id=discovary_investigation_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=discovary_investigation_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="and_tv_hd" tvg-name="&TV HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" tvg-chno="and_tv_hd" group-title="", &TV HD
-https://yflix.top/live.php?id=and_tv_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=and_tv_hd&e=.m3u8|referer=https://yflix.top/
 #EXTINF:-1 tvg-id="andpicture_hd" tvg-name="& Pictures HD" tvg-country="IN" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" tvg-chno="andpicture_hd" group-title="", & Pictures HD
-https://yflix.top/live.php?id=andpicture_hd&e=.m3u8|referer=https://yflix.top/
+https://toffee.yflix.top/live.php?id=andpicture_hd&e=.m3u8|referer=https://yflix.top/
