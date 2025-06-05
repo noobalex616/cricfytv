@@ -1,0 +1,519 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 tvg-id="IBC24.in" tvg-logo="https://i.imgur.com/2LbR2a0.png" group-title="Undefined",IBC 24 (720p)
+https://livetv.ibc24.in/livestream.m3u8
+#EXTINF:-1 tvg-id="News18MadhyaPradeshChhattisgarh.in" tvg-logo="https://i.imgur.com/Yhg2eLH.png" group-title="News",News18 Madhya Pradesh/Chhattisgarh
+http://xott.live:8080/47985030/4699310/244863
+#EXTINF:-1 tvg-id="ZeeMadhyaPradeshChhattisgarh.in" tvg-logo="https://i.imgur.com/YccuVVI.png" group-title="Undefined",Zee Madhya Pradesh Chhattisgarh
+http://xott.live:8080/47985030/4699310/244801
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="News",Zee News
+http://xott.live:8080/47985030/4699310/244803
+
+
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT",IN | Zee TV
+http://xott.live:8080/47985030/4699310/221250
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV (4K)" tvg-logo="http://openboxv8s.com/india/zee_tv.jpg" group-title="INDIAN | 4K ULTRA HD",ZEE TV (4K)
+http://xott.live:8080/47985030/4699310/66162
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png" tvg-chno="56334" group-title="Sony LIV ",Sony TV HD 
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD (1080p)
+http://xott.live:8080/47985030/4699310/66167
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="Undefined",Colors Rishtey Asia (1080p)
+http://xott.live:8080/47985030/4699310/66188
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT",Star Plus
+http://xott.live:8080/47985030/4699310/221252
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus (4K)" tvg-logo="http://openboxv8s.com/india/star_plus_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD",Star Plus (4K)
+http://xott.live:8080/47985030/4699310/109949
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN | Star Bharat" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Bharat
+http://xott.live:8080/47985030/4699310/221255
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT (4K)" tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png" group-title="INDIAN | 4K ULTRA HD",STAR BHARAT (4K)
+http://xott.live:8080/47985030/4699310/109951
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="IN | &Tv HD" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="INDIAN | ENTERTAINMENT",IN | &Tv HD
+http://xott.live:8080/47985030/4699310/66172
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&tv (4K)" tvg-logo="http://openboxv8s.com/ukicons/and_tv_in.png" group-title="INDIAN | 4K ULTRA HD",&tv (4K)
+http://xott.live:8080/47985030/4699310/109952
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN: STAR SPORTS 1 Hindi
+http://xott.live:8080/47985030/4699310/109986
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET",IN | Star Sports 1 HD
+http://xott.live:8080/47985030/4699310/167575
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET",IN | Star Sports 2 HD
+http://xott.live:8080/47985030/4699310/167576
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="CRICKET",IN | Star Sports 3 HD
+http://xott.live:8080/47985030/4699310/167577
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 1
+http://xott.live:8080/47985030/4699310/167578
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET",IN | STAR SPORTS SELECT 2
+http://xott.live:8080/47985030/4699310/167579
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Animal Planet Hindi
+http://xott.live:8080/47985030/4699310/206282
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN: Animal Planet FHD
+http://xott.live:8080/47985030/4699310/206283
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Nat Geo HD
+http://xott.live:8080/47985030/4699310/206285
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild HINDI
+http://xott.live:8080/47985030/4699310/206286
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Hindi *
+http://xott.live:8080/47985030/4699310/206287
+#EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
+http://xott.live:8080/47985030/4699310/206289
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY",IND: Investigation Discovery Hindi
+http://xott.live:8080/47985030/4699310/206291
+#EXTINF:-1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery_Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY",IND: Discovery_Turbo
+http://xott.live:8080/47985030/4699310/206292
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IND: History_18_Hindi" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: History_18_Hindi
+http://xott.live:8080/47985030/4699310/206294
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY",IN: History TV 18 FHD
+http://xott.live:8080/47985030/4699310/206295
+#EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" tvg-logo="" group-title="INDIAN | DOCUMENTARY",IND: Epic
+http://xott.live:8080/47985030/4699310/206296
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY",IN | Nat Geo Wild FHD ENG
+http://xott.live:8080/47985030/4699310/206587
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 1 (4K)
+http://xott.live:8080/47985030/4699310/109983
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 2 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 2 (4K)
+http://xott.live:8080/47985030/4699310/109984
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 3 (4K)
+http://xott.live:8080/47985030/4699310/109985
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sport 1 HINDI (4K)
+http://xott.live:8080/47985030/4699310/109986
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports 1 (4K)
+http://xott.live:8080/47985030/4699310/109987
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)" tvg-logo="" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports 2 (4K)
+http://xott.live:8080/47985030/4699310/109988
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="SONY SIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" group-title="INDIAN | SPORTS 4K (ULTRA HD)",SONY SIX (4K)
+http://xott.live:8080/47985030/4699310/109992
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports Select 1 (4K)
+http://xott.live:8080/47985030/4699310/109993
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports Select 2 (4K)
+http://xott.live:8080/47985030/4699310/109994
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://openboxv8s.com/india/colors-in.png" group-title="INDIAN | 4K ULTRA HD",Colors (4K)
+http://xott.live:8080/47985030/4699310/109947
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="SONY SET (4K)" tvg-logo="http://openboxv8s.com/india/set_asia.jpg" group-title="INDIAN | 4K ULTRA HD",SONY SET (4K)
+http://xott.live:8080/47985030/4699310/109948
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus (4K)" tvg-logo="http://openboxv8s.com/india/star_plus_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD",Star Plus (4K)
+http://xott.live:8080/47985030/4699310/109949
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV (4K)" tvg-logo="http://openboxv8s.com/india/zee_tv.jpg" group-title="INDIAN | 4K ULTRA HD",ZEE TV (4K)
+http://xott.live:8080/47985030/4699310/109950
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT (4K)" tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png" group-title="INDIAN | 4K ULTRA HD",STAR BHARAT (4K)
+http://xott.live:8080/47985030/4699310/109951
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&tv (4K)" tvg-logo="http://openboxv8s.com/ukicons/and_tv_in.png" group-title="INDIAN | 4K ULTRA HD",&tv (4K)
+http://xott.live:8080/47985030/4699310/109952
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN | 4K ULTRA HD",SONY SAB (4K)
+http://xott.live:8080/47985030/4699310/109953
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://openboxv8s.com/india/and_pictures_in.jpg" group-title="INDIAN | 4K ULTRA HD",&pictures (4K)
+http://xott.live:8080/47985030/4699310/109955
+#EXTINF:-1 tvg-id="utvhd.in" tvg-name="UTV (4K)" tvg-logo="" group-title="INDIAN | 4K ULTRA HD",UTV (4K)
+http://xott.live:8080/47985030/4699310/109956
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="MAX (4K)" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" group-title="INDIAN | 4K ULTRA HD",MAX (4K)
+http://xott.live:8080/47985030/4699310/109957
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://openboxv8s.com/india/zee_cinema.jpg" group-title="INDIAN | 4K ULTRA HD",ZEE CINEMA (4K)
+http://xott.live:8080/47985030/4699310/109958
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star GOLD (4K)" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" group-title="INDIAN | 4K ULTRA HD",Star GOLD (4K)
+http://xott.live:8080/47985030/4699310/109959
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select (4K)" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" group-title="INDIAN | 4K ULTRA HD",Star Gold Select (4K)
+http://xott.live:8080/47985030/4699310/109960
+#EXTINF:-1 tvg-id="" tvg-name="Movies_active (4K)" tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active-hd-bg_041218121205.png" group-title="INDIAN | 4K ULTRA HD",Movies_active (4K)
+http://xott.live:8080/47985030/4699310/109961
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="& flix (4K)" tvg-logo="http://openboxv8s.com/india/and-flix-in.png" group-title="INDIAN | 4K ULTRA HD",& flix (4K)
+http://xott.live:8080/47985030/4699310/109962
+#EXTINF:-1 tvg-id="hbohd.in" tvg-name="& Prive (4K)" tvg-logo="" group-title="INDIAN | 4K ULTRA HD",& Prive (4K)
+http://xott.live:8080/47985030/4699310/109963
+#EXTINF:-1 tvg-id="" tvg-name="& Xplorer (4K)" tvg-logo="" group-title="INDIAN | 4K ULTRA HD",& Xplorer (4K)
+http://xott.live:8080/47985030/4699310/109964
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="https://tvwiz.in/images/channel-images/MN+%20HD.v2.w132.png" group-title="INDIAN | 4K ULTRA HD",MN+ (4K)
+http://xott.live:8080/47985030/4699310/109965
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_pix_in.png" group-title="INDIAN | 4K ULTRA HD",SONY PIX (4K)
+http://xott.live:8080/47985030/4699310/109966
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="http://openboxv8s.com/india/movies_now.png" group-title="INDIAN | 4K ULTRA HD",Movies Now (4K)
+http://xott.live:8080/47985030/4699310/109968
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="STAR MOVIES (4K)" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD",STAR MOVIES (4K)
+http://xott.live:8080/47985030/4699310/109970
+#EXTINF:-1 tvg-id="starworldhd.in" tvg-name="STAR WORLD (4K)" tvg-logo="http://openboxv8s.com/india/star_world_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD",STAR WORLD (4K)
+http://xott.live:8080/47985030/4699310/109971
+#EXTINF:-1 tvg-id="starpremierehd.in" tvg-name="STAR WORLD PREM (4K)" tvg-logo="http://openboxv8s.com/india/star_world_premiere_hd_in.jpg" group-title="INDIAN | 4K ULTRA HD",STAR WORLD PREM (4K)
+http://xott.live:8080/47985030/4699310/109972
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="DISCOVERY (4K)" tvg-logo="http://openboxv8s.com/india/discovery-channel-east-us.png" group-title="INDIAN | 4K ULTRA HD",DISCOVERY (4K)
+http://xott.live:8080/47985030/4699310/109974
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET (4K)" tvg-logo="http://openboxv8s.com/india/animal-planet-us.png" group-title="INDIAN | 4K ULTRA HD",ANIMAL PLANET (4K)
+http://xott.live:8080/47985030/4699310/109975
+#EXTINF:-1 tvg-id="" tvg-name="NAT Geo Wild (4K)*" tvg-logo="http://openboxv8s.com/india/nat_geo_wild_asia.jpg" group-title="INDIAN | 4K ULTRA HD",NAT Geo Wild (4K)*
+http://xott.live:8080/47985030/4699310/109976
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="National GEO (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="INDIAN | 4K ULTRA HD",National GEO (4K)
+http://xott.live:8080/47985030/4699310/109977
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
+http://xott.live:8080/47985030/4699310/109978
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="FOX Life (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="INDIAN | 4K ULTRA HD",FOX Life (4K)
+http://xott.live:8080/47985030/4699310/109980
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX (4K)" tvg-logo="" group-title="INDIAN | 4K ULTRA HD",IN: COLORS CINEPLEX (4K)
+http://xott.live:8080/47985030/4699310/206315
+#EXTINF:-1 tvg-id="" tvg-name="IND: Sony MAX 2 (4K)" tvg-logo="" group-title="INDIAN | 4K ULTRA HD",IND: Sony MAX 2 (4K)
+http://xott.live:8080/47985030/4699310/206317
+#EXTINF:-1 tvg-id="" tvg-name="IND: Oscar Movies (4K)" tvg-logo="" group-title="INDIAN | 4K ULTRA HD",IND: Oscar Movies (4K)
+http://xott.live:8080/47985030/4699310/206319
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="IN: Jalsha Movies (4K)*" tvg-logo="" group-title="INDIAN | 4K ULTRA HD",IN: Jalsha Movies (4K)*
+http://xott.live:8080/47985030/4699310/206320
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="INDIAN | MUSIC",IN | Zoom TV
+http://xott.live:8080/47985030/4699310/66190
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN | 9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="INDIAN | MUSIC",IN | 9xm
+http://xott.live:8080/47985030/4699310/66192
+#EXTINF:-1 tvg-id="" tvg-name="IN | B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="INDIAN | MUSIC",IN | B4u Music
+http://xott.live:8080/47985030/4699310/66203
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="IN | 9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="INDIAN | MUSIC",IN | 9x Jalwa
+http://xott.live:8080/47985030/4699310/66226
+#EXTINF:-1 tvg-id="" tvg-name="IN | MTV BEAT [FHD]" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="INDIAN | MUSIC",IN | MTV BEAT [FHD]
+http://xott.live:8080/47985030/4699310/66273
+#EXTINF:-1 tvg-id="" tvg-name="ind-pun: Pittara TV" tvg-logo="" group-title="INDIAN | MUSIC",ind-pun: Pittara TV
+http://xott.live:8080/47985030/4699310/66285
+#EXTINF:-1 tvg-id="" tvg-name="IN | 9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="INDIAN | MUSIC",IN | 9x Tashan
+http://xott.live:8080/47985030/4699310/66289
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mastii" tvg-logo="" group-title="INDIAN | MUSIC",IN: Mastii
+http://xott.live:8080/47985030/4699310/112988
+
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png" tvg-chno="67555" group-title="Sony LIV ",Sony yay HD 
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-chno="467433" group-title="Sony LIV 2",Sony entertainment HD
+https://dai.google.com/ssai/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" tvg-chno="475444" group-title="Sony LIV 2",Sony sports ten 5 HD
+https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" tvg-chno="575433" group-title="Sony LIV 2",Sony Max HD
+https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" tvg-chno="4775443" group-title="Sony LIV 2",Sony aath HD
+https://dai.google.com/ssai/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" tvg-chno="4777765" group-title="Sony LIV 2",Sony Marathi HD
+https://dai.google.com/ssai/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF:-1 tvg-chno="6744333" group-title="TATA PLAY",Sony Max HD
+http://144.217.70.181:9587/hin2/SONYMAXHD/playlist.m3u8?token=test
+#EXTINF:-1 tvg-chno="6753332" group-title="Sony LIV 3",Sony Max2 HD
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" tvg-chno="30000998" group-title="Sony LIV 2",Sony pal HD
+https://dai.google.com/ssai/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+ (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="NickJrIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr India (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids",Nickelodeon Sonic Hindi (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="Movies",Colors Cineplex Bollywood (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png" tvg-chno="5" group-title="Sony LIV ",Sony Marathi HD 
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Sony LIV ",Sony Max HD 
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="Undefined",Colors Rishtey Asia (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" tvg-chno="12" group-title="Sony LIV ",Sony sports ten 5
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png" tvg-chno="13" group-title="Sony LIV ",Sony sports ten 5 HD 
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sony LIV ",Sony sports ten 1 HD 
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-New-Logo.png" tvg-chno="15" group-title="Sony LIV ",Sony sports ten 1 
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="16" group-title="Sony LIV ",Sony sports ten 2 HD 
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="17" group-title="Sony LIV ",Sony sports ten 2 
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="18" group-title="Sony LIV ",Sony sports ten 3 HD 
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="19" group-title="Sony LIV ",Sony sports ten 3 
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" tvg-chno="20" group-title="Sony LIV ",Sony sports ten 4 HD 
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-BBC-Earth-HD-New-Logo.png" tvg-chno="21" group-title="Sony LIV ",Sony BBC earth HD
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" tvg-chno="21" group-title="Sony LIV ",Sony sports ten 4
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" tvg-chno="22" group-title="Sony LIV ",Sony WAH HD 
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" tvg-chno="45533" group-title="Sony LIV 2",Sony BBC earth HD
+https://dai.google.com/ssai/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" tvg-chno="46433" group-title="Sony LIV 2",Sony sports ten 4 HD
+https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 tvg-chno="46444" group-title="Kids",Discovery kids
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png" tvg-chno="56334" group-title="Sony LIV ",Sony TV HD 
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-chno="57000" group-title="Sony LIV 4",Sony sports ten 4 HD
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" tvg-chno="58544" group-title="Sony LIV 2",Sony sports ten 3 SD
+https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1,&TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/andtv-audio_208482_und=208000-video=562400.m3u8
+#EXTINF:-1,&TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=352400.m3u8
+#EXTINF:-1,&PICTURES
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/andtv-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,&PICTURES HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1,ANJAN TV
+https://yuppftalive.akamaized.net/080823/anjantv/chunks.m3u8
+#EXTINF:-1,BOLLYWOOD BOX OFFICE (BBO) CLASSIC
+https://yuppftalive.akamaized.net/120723/smil:bboclassic.smil/chunklist_b2628000.m3u8
+#EXTINF:-1,BFLIX
+https://yuppftalive.akamaized.net/080823/bflixmovies/chunks.m3u8
+#EXTINF:-1,BHOJPURI CINEMA
+https://dangalplaycdn.vidgyor.com/pub-iobhojpuqbu6yj/liveabr/pub-iobhojpuqbu6yj/live_240p/chunks.m3u8
+#EXTINF:-1,ZING
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,ZEE TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/zeetvhd-audio_208482_und=208000-video=352400.m3u8
+#EXTINF:-1,ZEE ANMOL CINEMA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/zeeanmolcinema-audio_208482_und=208000-video=562400.m3u8
+#EXTINF:0 tvg-id="LifeOk.in" group-title="Channels",IN: Star Bharat
+http://iptvs.life:8080/osec/c5176e377c82/284583
+#EXTINF:0 tvg-id="StarPlus.in" group-title="Channels",IN: Star Plus
+http://iptvs.life:8080/osec/c5176e377c82/16091
+#EXTINF:0 tvg-id="ZEETV.in" group-title="Channels",IN: Zee TV
+http://iptvs.life:8080/osec/c5176e377c82/1348
+#EXTINF:0 tvg-id="Zoom.in" group-title="Channels",IN: Zoom
+http://iptvs.life:8080/osec/c5176e377c82/192069
+#EXTINF:0 tvg-id="9XM.in" group-title="Channels",IN: 9XM
+http://iptvs.life:8080/osec/c5176e377c82/45471
+#EXTINF:0 tvg-id="9XJalwa.in" group-title="Channels",IN: 9X Jalwa
+http://iptvs.life:8080/osec/c5176e377c82/45465
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: 1st India
+http://iptvs.life:8080/osec/c5176e377c82/159102
+#EXTINF:0 tvg-id="ZeeNews.in" group-title="Channels",IN: Zee News
+http://iptvs.life:8080/osec/c5176e377c82/5047
+#EXTINF:0 tvg-id="NDTV24X7.in" group-title="Channels",IN: NDTV 24X7
+http://iptvs.life:8080/osec/c5176e377c82/21664
+#EXTINF:0 tvg-id="NDTVIndia.in" group-title="Channels",IN: NDTV India
+http://iptvs.life:8080/osec/c5176e377c82/166390
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: 24 News
+http://iptvs.life:8080/osec/c5176e377c82/82567
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: History
+http://iptvs.life:8080/osec/c5176e377c82/82604
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: ANIMAL PLANET (TATA PLAY)
+http://iptvs.life:8080/osec/c5176e377c82/296266
+#EXTINF:0 tvg-id="DiscoveryChannel.in" group-title="Channels",IN: Discovery Channel
+http://iptvs.life:8080/osec/c5176e377c82/295292
+#EXTINF:0 tvg-id="DiscoveryScience.in" group-title="Channels",IN: Discovery Science
+http://iptvs.life:8080/osec/c5176e377c82/1363
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Discovery World
+http://iptvs.life:8080/osec/c5176e377c82/73792
+#EXTINF:0 tvg-id="B4UMusic.in" group-title="Channels",IN: B4U Music
+http://iptvs.life:8080/osec/c5176e377c82/1368
+#EXTINF:0 tvg-id="DDBharati.in" group-title="Channels",IN: DD Bharati
+http://iptvs.life:8080/osec/c5176e377c82/193040
+#EXTINF:0 tvg-id="DDIndia.in" group-title="Channels",IN: DD India
+http://iptvs.life:8080/osec/c5176e377c82/165806
+#EXTINF:0 tvg-id="DDNational.in" group-title="Channels",IN: DD National
+http://iptvs.life:8080/osec/c5176e377c82/192197
+#EXTINF:0 tvg-id="E24.in" group-title="Channels",IN: E 24
+ht#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Enterr 10
+http://iptvs.life:8080/osec/c5176e377c82/193025tp://iptvs.life:8080/osec/c5176e377c82/193086
+#EXTINF:0 tvg-id="IndiaNews.in" group-title="Channels",IN: India News
+http://iptvs.life:8080/osec/c5176e377c82/192968
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: India Today
+http://iptvs.life:8080/osec/c5176e377c82/16970
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Mh 1 Music
+http://iptvs.life:8080/osec/c5176e377c82/198604
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: MTV India
+http://iptvs.life:8080/osec/c5176e377c82/193647
+#EXTINF:0 tvg-id="MusicIndia.in" group-title="Channels",IN: Music India
+http://iptvs.life:8080/osec/c5176e377c82/1358
+#EXTINF:0 tvg-id="StarGold.in" group-title="Channels",IN: Star Gold
+http://iptvs.life:8080/osec/c5176e377c82/1070
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Star Gold 2
+http://iptvs.life:8080/osec/c5176e377c82/43919
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Star Gold Select
+http://iptvs.life:8080/osec/c5176e377c82/297547
+#EXTINF:0 tvg-id="StarSports1.in" group-title="Channels",IN: Star Sports 1
+http://iptvs.life:8080/osec/c5176e377c82/3630
+#EXTINF:0 tvg-id="StarSports2.in" group-title="Channels",IN: Star Sports 2
+http://103.123.169.206:8081/hls/potato-2.m3u8
+
+
+
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT",IN | Zee TV
+http://xott.live:8080/47985030/4699310/221250
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV HD" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT",IN | Zee TV HD
+http://xott.live:8080/47985030/4699310/66162
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV [FHD]" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT",IN | Zee TV [FHD]
+http://xott.live:8080/47985030/4699310/66163
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN | Sony SET (TATAPLAY)" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony SET (TATAPLAY)
+http://xott.live:8080/47985030/4699310/221251
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN | Sony SET HD" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony SET HD
+http://xott.live:8080/47985030/4699310/66164
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN | Sony SET [FHD]" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony SET [FHD]
+http://xott.live:8080/47985030/4699310/66165
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN | Star Plus" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Plus
+http://xott.live:8080/47985030/4699310/221252
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN | Star Plus HD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Plus HD
+http://xott.live:8080/47985030/4699310/66166
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN | Star Plus FHD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Plus FHD
+http://xott.live:8080/47985030/4699310/66208
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN | Colors" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="INDIAN | ENTERTAINMENT",IN | Colors
+http://xott.live:8080/47985030/4699310/221254
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN | Colors HD" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="INDIAN | ENTERTAINMENT",IN | Colors HD
+http://xott.live:8080/47985030/4699310/66167
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN | Colors [FHD]" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="INDIAN | ENTERTAINMENT",IN | Colors [FHD]
+http://xott.live:8080/47985030/4699310/66168
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN | Star Bharat" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Bharat
+http://xott.live:8080/47985030/4699310/221255
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN | Star Bharat HD" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Bharat HD
+http://xott.live:8080/47985030/4699310/66170
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN | Star Bharat [FHD]" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Bharat [FHD]
+http://xott.live:8080/47985030/4699310/66171
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN | Sony Sab" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony Sab
+http://xott.live:8080/47985030/4699310/221256
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN | Sony Sab HD" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony Sab HD
+http://xott.live:8080/47985030/4699310/66174
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="IN | Sony Sab UK*" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony Sab UK*
+http://xott.live:8080/47985030/4699310/66175
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN: SONY SAB [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="INDIAN | ENTERTAINMENT",IN: SONY SAB [FHD]
+http://xott.live:8080/47985030/4699310/104194
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="IN | &Tv" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="INDIAN | ENTERTAINMENT",IN | &Tv
+http://xott.live:8080/47985030/4699310/221253
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="IN | &Tv HD" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="INDIAN | ENTERTAINMENT",IN | &Tv HD
+http://xott.live:8080/47985030/4699310/66172
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="IN | &Tv [FHD]" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="INDIAN | ENTERTAINMENT",IN | &Tv [FHD]
+http://xott.live:8080/47985030/4699310/66173
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | ENTERTAINMENT",IN | STAR GOLD THRILLS
+http://xott.live:8080/47985030/4699310/221258
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Gold HD
+http://xott.live:8080/47985030/4699310/66177
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Gold [FHD]
+http://xott.live:8080/47985030/4699310/66178
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Gold Select
+http://xott.live:8080/47985030/4699310/221257
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select HD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Star Gold Select HD
+http://xott.live:8080/47985030/4699310/66176
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="INDIAN | ENTERTAINMENT",IND: Star Gold 2
+http://xott.live:8080/47985030/4699310/106133
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: STAR GOLD HD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="INDIAN | ENTERTAINMENT",IN: STAR GOLD HD (TATASKY)
+http://xott.live:8080/47985030/4699310/112982
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | ENTERTAINMENT",IN | & Pictures
+http://xott.live:8080/47985030/4699310/221260
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | ENTERTAINMENT",IN | & Pictures HD
+http://xott.live:8080/47985030/4699310/66181
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD]" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | ENTERTAINMENT",IN | & Pictures [FHD]
+http://xott.live:8080/47985030/4699310/66183
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIAN | ENTERTAINMENT",IN | ZEE CINEMA FHD (TATASKY)
+http://xott.live:8080/47985030/4699310/221261
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIAN | ENTERTAINMENT",IN | ZEE CINEMA HD
+http://xott.live:8080/47985030/4699310/206307
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIAN | ENTERTAINMENT",IN | ZEE CINEMA [FHD]
+http://xott.live:8080/47985030/4699310/206308
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIAN | ENTERTAINMENT",IND: Zee Cinema USA
+http://xott.live:8080/47985030/4699310/206268
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | ENTERTAINMENT",IN: Dhamaka Movies B4U
+http://xott.live:8080/47985030/4699310/66184
+#EXTINF:-1 tvg-id="" tvg-name="IN: Oscar Movies" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="INDIAN | ENTERTAINMENT",IN: Oscar Movies
+http://xott.live:8080/47985030/4699310/66185
+#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://static.epg.best/in/UTVAction.in.png" group-title="INDIAN | ENTERTAINMENT",IN: STAR GOLD ROMANCE
+http://xott.live:8080/47985030/4699310/66186
+#EXTINF:-1 tvg-id="" tvg-name="IND: Box Cinema**" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",IND: Box Cinema**
+http://xott.live:8080/47985030/4699310/206269
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kp7b_-laBpBjH0VGRzxU5IgXS7qhzIkJIg&usqp=CAU" group-title="INDIAN | ENTERTAINMENT",IN: COLORS CINEPLEX
+http://xott.live:8080/47985030/4699310/104191
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="INDIAN | ENTERTAINMENT",IN: COLORS CINEPLEX FHD
+http://xott.live:8080/47985030/4699310/206310
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony Max (TATAPLAY)
+http://xott.live:8080/47985030/4699310/221259
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony Max HD
+http://xott.live:8080/47985030/4699310/66179
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony Max [FHD]
+http://xott.live:8080/47985030/4699310/66180
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | ENTERTAINMENT",IN | SONY MAX 2
+http://xott.live:8080/47985030/4699310/66189
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IND: Sony MAX 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="INDIAN | ENTERTAINMENT",IND: Sony MAX 2 FHD
+http://xott.live:8080/47985030/4699310/206312
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Zee Anmol Cinema
+http://xott.live:8080/47985030/4699310/66187
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN | Colors Rishtey" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="INDIAN | ENTERTAINMENT",IN | Colors Rishtey
+http://xott.live:8080/47985030/4699310/66188
+#EXTINF:-1 tvg-id="" tvg-name="IN | MINIPLEX HD*" tvg-logo="https://static.epg.best/in/Miniplex.in.png" group-title="INDIAN | ENTERTAINMENT",IN | MINIPLEX HD*
+http://xott.live:8080/47985030/4699310/66194
+#EXTINF:-1 tvg-id="colorsrishtey.in" tvg-name="IN: Color Cineplex SuperHits" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="INDIAN | ENTERTAINMENT",IN: Color Cineplex SuperHits
+http://xott.live:8080/47985030/4699310/66199
+#EXTINF:-1 tvg-id="0" tvg-name="IN | ZEE ACTION" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="INDIAN | ENTERTAINMENT",IN | ZEE ACTION
+http://xott.live:8080/47985030/4699310/66191
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest/scale-to-width-down/270?cb=20200907154854" group-title="INDIAN | ENTERTAINMENT",IN | ZEE CLASSIC
+http://xott.live:8080/47985030/4699310/66201
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bflix Movies*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDIAN | ENTERTAINMENT",IN: Bflix Movies*
+http://xott.live:8080/47985030/4699310/104190
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="IN | Sony Pal*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDIAN | ENTERTAINMENT",IN | Sony Pal*
+http://xott.live:8080/47985030/4699310/104192
+#EXTINF:-1 tvg-id="" tvg-name="IND: BIG MAGIC" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="INDIAN | ENTERTAINMENT",IND: BIG MAGIC
+http://xott.live:8080/47985030/4699310/104198
+#EXTINF:-1 tvg-id="" tvg-name="IND: B4U Kadak*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="INDIAN | ENTERTAINMENT",IND: B4U Kadak*
+http://xott.live:8080/47985030/4699310/104199
+#EXTINF:-1 tvg-id="" tvg-name="IND: ABZY MOVIES**" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",IND: ABZY MOVIES**
+http://xott.live:8080/47985030/4699310/104200
+#EXTINF:-1 tvg-id="" tvg-name="IND: B4U Movies" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",IND: B4U Movies
+http://xott.live:8080/47985030/4699310/104201
+#EXTINF:-1 tvg-id="" tvg-name="IND: ENTER 10 Movies" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",IND: ENTER 10 Movies
+http://xott.live:8080/47985030/4699310/104202
+#EXTINF:-1 tvg-id="" tvg-name="IND: MANORANJAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="INDIAN | ENTERTAINMENT",IND: MANORANJAN TV
+http://xott.live:8080/47985030/4699310/104203
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol*" tvg-logo="https://e7.pngegg.com/pngimages/330/556/png-clipart-zee-anmol-cinema-zee-entertainment-enterprises-dd-free-dish-television-channel-others-purple-television.png" group-title="INDIAN | ENTERTAINMENT",IN | Zee Anmol*
+http://xott.live:8080/47985030/4699310/66357
+#EXTINF:-1 tvg-id="" tvg-name="IND: MANORANJAN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="INDIAN | ENTERTAINMENT",IND: MANORANJAN MOVIES
+http://xott.live:8080/47985030/4699310/104204
+#EXTINF:-1 tvg-id="" tvg-name="IN | Maha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="INDIAN | ENTERTAINMENT",IN | Maha Movies
+http://xott.live:8080/47985030/4699310/104206
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE ZEST HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="INDIAN | ENTERTAINMENT",IN: ZEE ZEST HD*
+http://xott.live:8080/47985030/4699310/104212
+#EXTINF:-1 tvg-id="" tvg-name="IN: WOW CINEMA" tvg-logo="https://static.epg.best/in/WOWCinema.in.png" group-title="INDIAN | ENTERTAINMENT",IN: WOW CINEMA
+http://xott.live:8080/47985030/4699310/106132
+#EXTINF:-1 tvg-id="" tvg-name="IN: |UK| ZEE CINEMA UK" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/zee_cinema_asia.png" group-title="INDIAN | ENTERTAINMENT",IN: |UK| ZEE CINEMA UK
+http://xott.live:8080/47985030/4699310/112970
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN: STAR UTSAV MOVIES**" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",IN: STAR UTSAV MOVIES**
+http://xott.live:8080/47985030/4699310/112971
+#EXTINF:-1 tvg-id="" tvg-name="IN: GOLDMINES" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" group-title="INDIAN | ENTERTAINMENT",IN: GOLDMINES
+http://xott.live:8080/47985030/4699310/112972
+#EXTINF:-1 tvg-id="" tvg-name="IN: GOLDMINES BOLLYWOOD" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" group-title="INDIAN | ENTERTAINMENT",IN: GOLDMINES BOLLYWOOD
+http://xott.live:8080/47985030/4699310/112973
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD National" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="INDIAN | ENTERTAINMENT",IN: DD National
+http://xott.live:8080/47985030/4699310/112975
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/ZeeTVCanadaLogo.png" group-title="INDIAN | ENTERTAINMENT",IN: ZEE TV CANADA
+http://xott.live:8080/47985030/4699310/112976
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR UTSAV" tvg-logo="https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg" group-title="INDIAN | ENTERTAINMENT",IN: STAR UTSAV
+http://xott.live:8080/47985030/4699310/112977
+#EXTINF:-1 tvg-id="" tvg-name="IND: DHAMAAL TV*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDIAN | ENTERTAINMENT",IND: DHAMAAL TV*
+http://xott.live:8080/47985030/4699310/112978
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="IN | Sony Wah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="INDIAN | ENTERTAINMENT",IN | Sony Wah
+http://xott.live:8080/47985030/4699310/112979
+#EXTINF:-1 tvg-id="" tvg-name="IN: COMEDY ACTIVE*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDIAN | ENTERTAINMENT",IN: COMEDY ACTIVE*
+http://xott.live:8080/47985030/4699310/112980
+#EXTINF:-1 tvg-id="" tvg-name="IND: Colors Cineplex Bollywood" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",IND: Colors Cineplex Bollywood
+http://xott.live:8080/47985030/4699310/112983
+#EXTINF:-1 tvg-id="" tvg-name="IN: MBC BOLLYWOOD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="INDIAN | ENTERTAINMENT",IN: MBC BOLLYWOOD*
+http://xott.live:8080/47985030/4699310/112984
+#EXTINF:-1 tvg-id="" tvg-name="IN: GEM BOLLYWOOD" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",IN: GEM BOLLYWOOD
+http://xott.live:8080/47985030/4699310/112986
+#EXTINF:-1 tvg-id="" tvg-name="IN: BINDAS MOVIES" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",IN: BINDAS MOVIES
+http://xott.live:8080/47985030/4699310/112987
+#EXTINF:-1 tvg-id="" tvg-name="IND: Dabangg" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dabangg-tv-channel-logo-300x300.jpg" group-title="INDIAN | ENTERTAINMENT",IND: Dabangg
+http://xott.live:8080/47985030/4699310/206270
+#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Cinema SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/ZeeSmileLogo.jpg" group-title="INDIAN | ENTERTAINMENT",IND: Zee Cinema SD
+http://xott.live:8080/47985030/4699310/206271
+#EXTINF:-1 tvg-id="" tvg-name="IND: Zee Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Zee_Magic_Logo.jpg" group-title="INDIAN | ENTERTAINMENT",IND: Zee Magic
+http://xott.live:8080/47985030/4699310/206273
+#EXTINF:-1 tvg-id="" tvg-name="IN: MOVIES ACTIVE FHD" tvg-logo="https://www.dishtv.in/Images/Active-Services/CineActivelogo.png" group-title="INDIAN | ENTERTAINMENT",IN: MOVIES ACTIVE FHD
+http://xott.live:8080/47985030/4699310/206276
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="INDIAN | ENTERTAINMENT",IN | ZEE AFLAM
+http://xott.live:8080/47985030/4699310/206277
+#EXTINF:-1 tvg-id="" tvg-name="IND: Aapka Colors" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",IND: Aapka Colors
+http://xott.live:8080/47985030/4699310/206314
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" group-title="INDIAN | ENTERTAINMENT",IN: ZEE Bollywood
+http://xott.live:8080/47985030/4699310/207200
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Star World HD
+http://xott.live:8080/47985030/4699310/66211
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN | Star Movies FHD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | Star Movies FHD
+http://xott.live:8080/47985030/4699310/66213
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN | Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="INDIAN | ENGLISH MOVIES",IN | Sony Pix HD
+http://xott.live:8080/47985030/4699310/66224
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN | &Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="INDIAN | ENGLISH MOVIES",IN | &Prive HD
+http://xott.live:8080/47985030/4699310/66228
+#EXTINF:-1 tvg-id="axnhd.in" tvg-name="IN | HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="INDIAN | ENGLISH MOVIES",IN | HBO HD
+http://xott.live:8080/47985030/4699310/66229
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN | & Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="INDIAN | ENGLISH MOVIES",IN | & Flix HD
+http://xott.live:8080/47985030/4699310/66236
+#EXTINF:-1 tvg-id="" tvg-name="IN: & Explor FHD" tvg-logo="" group-title="INDIAN | ENGLISH MOVIES",IN: & Explor FHD
+http://xott.live:8080/47985030/4699310/66241
+#EXTINF:-1 tvg-id="mnx.in" tvg-name="IN: MNX HD" tvg-logo="https://static.epg.best/in/MNPlus.in.png" group-title="INDIAN | ENGLISH MOVIES",IN: MNX HD
+http://xott.live:8080/47985030/4699310/66266
