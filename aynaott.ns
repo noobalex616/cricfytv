@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204" group-title="Channels", Channel I
+https://re.fredflix.fun/Applotv/20714fd4-dc3c-46d6-924f-3038d61f027c/playlist.m3u8
+#EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/1a619c9b917eb35898020cd323e415a7" group-title="Channels", NTV
+https://re.fredflix.fun/Applotv/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d/playlist.m3u8
+#EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/788ab3e49b2aa6af247722762ed6e72a" group-title="Channels", Bangla Vision
+https://re.fredflix.fun/Applotv/21e75798-3b6a-4214-9d93-b3fecaa4e700/playlist.m3u8
+#EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Channels", RTV
+https://re.fredflix.fun/Applotv/70e97db9-5a9e-4642-874e-af3d30ba9925/playlist.m3u8
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" group-title="Channels", ATN Bangla
+https://re.fredflix.fun/Applotv/9046949b-9847-4b5d-96c1-e82b0734444b/playlist.m3u8
+#EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8" group-title="Channels", ETV
+https://re.fredflix.fun/Applotv/b3f0df76-15ba-4ede-a7de-bbaaf23a630e/playlist.m3u8
+#EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="Channels", Maasranga TV
+https://re.fredflix.fun/Applotv/9a94b22f-c4a4-4150-8eb9-129d0ddeb934/playlist.m3u8
+#EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c" group-title="Channels", Deepto TV
+https://re.fredflix.fun/Applotv/0be12af9-e713-4c65-b4ed-b735793a0418/playlist.m3u8
+#EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="Channels", Somoy News TV
+https://re.fredflix.fun/Applotv/27ec4394-7640-4dab-abf8-6a48893dfdfe/playlist.m3u8
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Channels", T Sports HD
+https://re.fredflix.fun/Applotv/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/playlist.m3u8
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports", T Sports HD
+https://re.fredflix.fun/Applotv/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/playlist.m3u8
+#EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports", A sports
+https://re.fredflix.fun/Applotv/a3d48c46-7902-45e2-abf9-0fab60c4d117/playlist.m3u8
+#EXTINF:-1 tvg-id="eacf6c3f-0773-4bc3-a03a-cfee09f10348" tvg-name="P TV Sports" tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports", P TV Sports
+https://re.fredflix.fun/Applotv/eacf6c3f-0773-4bc3-a03a-cfee09f10348/playlist.m3u8
+#EXTINF:-1 tvg-id="93c7e57d-e666-488a-aec9-a339a7e5eb74" tvg-name="Fox Sports 2" tvg-logo="https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5" group-title="Sports", Fox Sports 2
+https://re.fredflix.fun/Applotv/93c7e57d-e666-488a-aec9-a339a7e5eb74/playlist.m3u8
+#EXTINF:-1 tvg-id="f064e069-8861-43d5-ac79-828b029a50a1" tvg-name="Star Sports 1 HD" tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="Sports", Star Sports 1 HD
+https://re.fredflix.fun/Applotv/f064e069-8861-43d5-ac79-828b029a50a1/playlist.m3u8
+#EXTINF:-1 tvg-id="f1e1b6c8-9a1b-492d-bdf9-b63295e6073e" tvg-name="Sports 18" tvg-logo="https://s3.aynaott.com/storage/f7bf8f587bc7838bcce89a8730712119" group-title="Sports", Sports 18
+https://re.fredflix.fun/Applotv/f1e1b6c8-9a1b-492d-bdf9-b63295e6073e/playlist.m3u8
+#EXTINF:-1 tvg-id="490e6a84-17e2-42bb-8725-66af0c067239" tvg-name="Bein Sports" tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" group-title="Sports", Bein Sports
+https://re.fredflix.fun/Applotv/490e6a84-17e2-42bb-8725-66af0c067239/playlist.m3u8
+#EXTINF:-1 tvg-id="10bb1341-2aa8-4be2-8a25-76a75f5a3ee7" tvg-name="BT Sports 2" tvg-logo="https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a" group-title="Sports", BT Sports 2
+https://re.fredflix.fun/Applotv/10bb1341-2aa8-4be2-8a25-76a75f5a3ee7/playlist.m3u8
+#EXTINF:-1 tvg-id="e263cd7f-45e9-4bc6-a350-bf968eb51b14" tvg-name="Espn" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports", Espn
+https://re.fredflix.fun/Applotv/e263cd7f-45e9-4bc6-a350-bf968eb51b14/playlist.m3u8
+#EXTINF:-1 tvg-id="32d28b2c-aded-481d-833b-cee57cecfc93" tvg-name="TSN 2" tvg-logo="https://s3.aynaott.com/storage/17642cb60c2af7fc36ca1e08cc54fdae" group-title="Sports", TSN 2
+https://re.fredflix.fun/Applotv/32d28b2c-aded-481d-833b-cee57cecfc93/playlist.m3u8
+#EXTINF:-1 tvg-id="bc9457ce-f875-48b8-b5d1-344cbb056590" tvg-name="Baghe Khay" tvg-logo="https://s3.aynaott.com/storage/ccc218925655ecf3feaa3f98cfd20469" group-title="Originals", Baghe Khay
+https://re.fredflix.fun/Applotv/bc9457ce-f875-48b8-b5d1-344cbb056590/playlist.m3u8
+#EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204" group-title="Recorded TV", Channel I
+https://re.fredflix.fun/Applotv/20714fd4-dc3c-46d6-924f-3038d61f027c/playlist.m3u8
+#EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/1a619c9b917eb35898020cd323e415a7" group-title="Recorded TV", NTV
+https://re.fredflix.fun/Applotv/1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d/playlist.m3u8
+#EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/788ab3e49b2aa6af247722762ed6e72a" group-title="Recorded TV", Bangla Vision
+https://re.fredflix.fun/Applotv/21e75798-3b6a-4214-9d93-b3fecaa4e700/playlist.m3u8
+#EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Recorded TV", RTV
+https://re.fredflix.fun/Applotv/70e97db9-5a9e-4642-874e-af3d30ba9925/playlist.m3u8
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" group-title="Recorded TV", ATN Bangla
+https://re.fredflix.fun/Applotv/9046949b-9847-4b5d-96c1-e82b0734444b/playlist.m3u8
+#EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737" group-title="Recorded TV", Maasranga TV
+https://re.fredflix.fun/Applotv/9a94b22f-c4a4-4150-8eb9-129d0ddeb934/playlist.m3u8
+#EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/76717b7a598a30815a1bdb16ecd3af6c" group-title="Recorded TV", Deepto TV
+https://re.fredflix.fun/Applotv/0be12af9-e713-4c65-b4ed-b735793a0418/playlist.m3u8
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Recorded TV", T Sports HD
+https://re.fredflix.fun/Applotv/fc95d30e-5323-4c12-bb38-7a1e3f04acc2/playlist.m3u8
+#EXTINF:-1 tvg-id="63b750d3-73e9-4e8a-b04b-6c79bbcd4f13" tvg-name="ABC 7 Bay" tvg-logo="https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89" group-title="News", ABC 7 Bay
+https://re.fredflix.fun/Applotv/63b750d3-73e9-4e8a-b04b-6c79bbcd4f13/playlist.m3u8
+#EXTINF:-1 tvg-id="50e2fe7f-fa1d-40ee-b37d-c19a992ed97c" tvg-name="ABC News" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News", ABC News
+https://re.fredflix.fun/Applotv/50e2fe7f-fa1d-40ee-b37d-c19a992ed97c/playlist.m3u8
+#EXTINF:-1 tvg-id="5031a2f5-324e-4e3d-91b2-d16385052dd2" tvg-name="ABC News NY" tvg-logo="https://s3.aynaott.com/storage/9c204bbb29e7c73684fb5b047a75fea0" group-title="News", ABC News NY
+https://re.fredflix.fun/Applotv/5031a2f5-324e-4e3d-91b2-d16385052dd2/playlist.m3u8
+#EXTINF:-1 tvg-id="12467e84-4c98-4a15-841d-61852f4a8a42" tvg-name="Amiricans Voice News" tvg-logo="https://s3.aynaott.com/storage/369efaefbc7b97f959725922707f8c00" group-title="News", Amiricans Voice News
+https://re.fredflix.fun/Applotv/12467e84-4c98-4a15-841d-61852f4a8a42/playlist.m3u8
+#EXTINF:-1 tvg-id="62d06278-50b4-48a1-b200-5a148e53fdbc" tvg-name="BBC News" tvg-logo="https://s3.aynaott.com/storage/abb5e2004f0fac10f6c74ecaa1c90da2" group-title="News", BBC News
+https://re.fredflix.fun/Applotv/62d06278-50b4-48a1-b200-5a148e53fdbc/playlist.m3u8
+#EXTINF:-1 tvg-id="140905b7-dfdf-4e51-aaf5-6fd132773fbe" tvg-name="BEK TV News" tvg-logo="https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2" group-title="News", BEK TV News
+https://re.fredflix.fun/Applotv/140905b7-dfdf-4e51-aaf5-6fd132773fbe/playlist.m3u8
+#EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="News", Somoy News TV
+https://re.fredflix.fun/Applotv/27ec4394-7640-4dab-abf8-6a48893dfdfe/playlist.m3u8
+#EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55" group-title="News", Channel 24
+https://re.fredflix.fun/Applotv/89247cb9-3c3e-465c-bbc7-d444b0d65424/playlist.m3u8
+#EXTINF:-1 tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" tvg-name="ATN News" tvg-logo="https://s3.aynaott.com/storage/8a3c5215dc0b943dc0a80333c0ab21ce" group-title="News", ATN News
+https://re.fredflix.fun/Applotv/a0a29f90-f7c2-4cc2-b0b4-667253585b84/playlist.m3u8
+#EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-name="Independent TV" tvg-logo="https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697" group-title="News", Independent TV
+https://re.fredflix.fun/Applotv/22f28ae5-8c15-4904-b9f6-70bbd94cbc43/playlist.m3u8
+#EXTINF:-1 tvg-id="9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c" tvg-name="Duronto TV" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" group-title="Kids", Duronto TV
+https://re.fredflix.fun/Applotv/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c/playlist.m3u8
+#EXTINF:-1 tvg-id="5c62ff81-0efc-42eb-9dbe-65402fa54afb" tvg-name="Baby TV" tvg-logo="https://s3.aynaott.com/storage/af2d6882ada195cc72c3e65bf293114c" group-title="Kids", Baby TV
+https://re.fredflix.fun/Applotv/5c62ff81-0efc-42eb-9dbe-65402fa54afb/playlist.m3u8
+#EXTINF:-1 tvg-id="e73ffada-f80a-4c23-9bd8-76142e41c389" tvg-name="Cartoon Network" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" group-title="Kids", Cartoon Network
+https://re.fredflix.fun/Applotv/e73ffada-f80a-4c23-9bd8-76142e41c389/playlist.m3u8
+#EXTINF:-1 tvg-id="d6d46db7-a14a-45ad-b576-b40c80406134" tvg-name="PBS Kids" tvg-logo="https://s3.aynaott.com/storage/e15930189f48df6d429c269bd1edea99" group-title="Kids", PBS Kids
+https://re.fredflix.fun/Applotv/d6d46db7-a14a-45ad-b576-b40c80406134/playlist.m3u8
+#EXTINF:-1 tvg-id="a9791899-66f2-4b94-9521-c333498f7ab9" tvg-name="Disney JR" tvg-logo="https://s3.aynaott.com/storage/31a070024b6516e3738baec70168f0b6" group-title="Kids", Disney JR
+https://re.fredflix.fun/Applotv/a9791899-66f2-4b94-9521-c333498f7ab9/playlist.m3u8
+#EXTINF:-1 tvg-id="3830c379-539b-4e18-9943-9664574c850b" tvg-name="Nicktoons" tvg-logo="https://s3.aynaott.com/storage/a130687320f6b07db4bc3729b9d5e96e" group-title="Kids", Nicktoons
+https://re.fredflix.fun/Applotv/3830c379-539b-4e18-9943-9664574c850b/playlist.m3u8
+#EXTINF:-1 tvg-id="c197b1bc-8909-4176-a50f-f855a4a51c1f" tvg-name="Nickjr" tvg-logo="https://s3.aynaott.com/storage/921409bfe77e2e3d32492116bc22fa3e" group-title="Kids", Nickjr
+https://re.fredflix.fun/Applotv/c197b1bc-8909-4176-a50f-f855a4a51c1f/playlist.m3u8
+#EXTINF:-1 tvg-id="8a87e892-cbf1-4361-8d46-06cce682c902" tvg-name="3ABN Kids" tvg-logo="https://s3.aynaott.com/storage/76e36f75bf11c815a76c5622d627c814" group-title="Kids", 3ABN Kids
+https://re.fredflix.fun/Applotv/8a87e892-cbf1-4361-8d46-06cce682c902/playlist.m3u8
+#EXTINF:-1 tvg-id="a8b5e07e-b775-415f-b71f-9391bacc9e30" tvg-name="Dios Te Ve Kids" tvg-logo="https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67" group-title="Kids", Dios Te Ve Kids
+https://re.fredflix.fun/Applotv/a8b5e07e-b775-415f-b71f-9391bacc9e30/playlist.m3u8
+#EXTINF:-1 tvg-id="a36167ba-c4a4-422a-91c6-594228b8cae4" tvg-name="Forever Kids" tvg-logo="https://s3.aynaott.com/storage/61c87bda9e538dd52b3ef654e85a11ff" group-title="Kids", Forever Kids
+https://re.fredflix.fun/Applotv/a36167ba-c4a4-422a-91c6-594228b8cae4/playlist.m3u8
+#EXTINF:-1 tvg-id="f6096a6f-9891-4bfc-98d8-ea20ea1388fe" tvg-name="Islam TV" tvg-logo="https://s3.aynaott.com/storage/5e74c3498e10b3cd2dadfe676681d387" group-title="English", Islam TV
+https://re.fredflix.fun/Applotv/f6096a6f-9891-4bfc-98d8-ea20ea1388fe/playlist.m3u8
+#EXTINF:-1 tvg-id="50e2fe7f-fa1d-40ee-b37d-c19a992ed97c" tvg-name="ABC News" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="English", ABC News
+https://re.fredflix.fun/Applotv/50e2fe7f-fa1d-40ee-b37d-c19a992ed97c/playlist.m3u8
+#EXTINF:-1 tvg-id="5031a2f5-324e-4e3d-91b2-d16385052dd2" tvg-name="ABC News NY" tvg-logo="https://s3.aynaott.com/storage/9c204bbb29e7c73684fb5b047a75fea0" group-title="English", ABC News NY
+https://re.fredflix.fun/Applotv/5031a2f5-324e-4e3d-91b2-d16385052dd2/playlist.m3u8
+#EXTINF:-1 tvg-id="12467e84-4c98-4a15-841d-61852f4a8a42" tvg-name="Amiricans Voice News" tvg-logo="https://s3.aynaott.com/storage/369efaefbc7b97f959725922707f8c00" group-title="English", Amiricans Voice News
+https://re.fredflix.fun/Applotv/12467e84-4c98-4a15-841d-61852f4a8a42/playlist.m3u8
+#EXTINF:-1 tvg-id="62d06278-50b4-48a1-b200-5a148e53fdbc" tvg-name="BBC News" tvg-logo="https://s3.aynaott.com/storage/abb5e2004f0fac10f6c74ecaa1c90da2" group-title="English", BBC News
+https://re.fredflix.fun/Applotv/62d06278-50b4-48a1-b200-5a148e53fdbc/playlist.m3u8
+#EXTINF:-1 tvg-id="140905b7-dfdf-4e51-aaf5-6fd132773fbe" tvg-name="BEK TV News" tvg-logo="https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2" group-title="English", BEK TV News
+https://re.fredflix.fun/Applotv/140905b7-dfdf-4e51-aaf5-6fd132773fbe/playlist.m3u8
+#EXTINF:-1 tvg-id="7b485392-fa4e-4756-a88c-0df044f835e6" tvg-name="Global Socil TV" group-title="English", Global Socil TV
+https://re.fredflix.fun/Applotv/7b485392-fa4e-4756-a88c-0df044f835e6/playlist.m3u8
+#EXTINF:-1 tvg-id="fc4dfffa-ceff-404f-bf3b-1de7c6771ae5" tvg-name="RDS Social TV" tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e" group-title="English", RDS Social TV
+https://re.fredflix.fun/Applotv/fc4dfffa-ceff-404f-bf3b-1de7c6771ae5/playlist.m3u8
+#EXTINF:-1 tvg-id="06aecebc-0e41-4117-b069-d36dff730869" tvg-name="Afroturk TV" tvg-logo="https://s3.aynaott.com/storage/f581d433008a3c1767023347190f01cf" group-title="English", Afroturk TV
+https://re.fredflix.fun/Applotv/06aecebc-0e41-4117-b069-d36dff730869/playlist.m3u8
+#EXTINF:-1 tvg-id="93475856-6996-4ebd-9b1e-b39fefadfe9f" tvg-name="Finans Turk" tvg-logo="https://s3.aynaott.com/storage/ac895381cfc9452384656cdfb4fbf5e4" group-title="English", Finans Turk
+https://re.fredflix.fun/Applotv/93475856-6996-4ebd-9b1e-b39fefadfe9f/playlist.m3u8
+#EXTINF:-1 tvg-id="f6096a6f-9891-4bfc-98d8-ea20ea1388fe" tvg-name="Islam TV" tvg-logo="https://s3.aynaott.com/storage/5e74c3498e10b3cd2dadfe676681d387" group-title="Religious", Islam TV
+https://re.fredflix.fun/Applotv/f6096a6f-9891-4bfc-98d8-ea20ea1388fe/playlist.m3u8
+#EXTINF:-1 tvg-id="596e39ca-a957-4029-bbc6-55e89dc5d4d4" tvg-name="RTV Islam" tvg-logo="https://s3.aynaott.com/storage/f00eda9194eb13e8ef1d1387889173bf" group-title="Religious", RTV Islam
+https://re.fredflix.fun/Applotv/596e39ca-a957-4029-bbc6-55e89dc5d4d4/playlist.m3u8
+#EXTINF:-1 tvg-id="11b82c1f-aeeb-45b3-85b0-0a753604a2bd" tvg-name="Al-Zahar TV Turkic" group-title="Religious", Al-Zahar TV Turkic
+https://re.fredflix.fun/Applotv/11b82c1f-aeeb-45b3-85b0-0a753604a2bd/playlist.m3u8
